@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1544006348 source:d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+	"RNA.h"
+
+1544040293 d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\include\sequence.h
+	<iostream>
+
+1544046988 d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\include\dna.h
+	"RNA.h"
+	"Sequence.h"
+
+1544040307 d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\include\rna.h
+	"CodonsTable.h"
+	"Protein.h"
+	"DNA.h"
+
+1544005069 d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\include\codonstable.h
+	"Sequence.h"
+
+1544041465 d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\include\protein.h
+	"DNA.h"
+
+1544042805 source:d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544092087 source:d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\src\dna.cpp
+	"DNA.h"
+
+1544092293 source:d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\src\protein.cpp
+	"Protein.h"
+
+1544046078 source:d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\src\rna.cpp
+	"RNA.h"
+
+1544092209 source:d:\mohamed\first term\programming ll\assignments\cs213-2018-2019-assignment4-v2.0\biology\src\sequence.cpp
+	"Sequence.h"
+
+1544612687 source:e:\mahmoud\programming 2\assignment 4\biology\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+	<iostream>
+
+1544612653 e:\mahmoud\programming 2\assignment 4\biology\include\codonstable.h
+	"Sequence.h"
+	<fstream>
+	<cstring>
+
+1544798403 e:\mahmoud\programming 2\assignment 4\biology\include\sequence.h
+	<cstring>
+	<iostream>
+
+1544816945 source:e:\mahmoud\programming 2\assignment 4\biology\src\protein.cpp
+	"Protein.h"
+
+1544818136 e:\mahmoud\programming 2\assignment 4\biology\include\protein.h
+	"DNA.h"
+
+1544818068 e:\mahmoud\programming 2\assignment 4\biology\include\dna.h
+	"RNA.h"
+	"Sequence.h"
+	<fstream>
+	<cmath>
+	<cstring>
+	<string>
+
+1544818098 e:\mahmoud\programming 2\assignment 4\biology\include\rna.h
+	"CodonsTable.h"
+	"Protein.h"
+	"DNA.h"
+	"Sequence.h"
+
+1544818098 source:e:\mahmoud\programming 2\assignment 4\biology\src\rna.cpp
+	"RNA.h"
+	<cmath>
+
+1544815496 source:e:\mahmoud\programming 2\assignment 4\biology\src\sequence.cpp
+	"Sequence.h"
+
+1544818115 source:e:\mahmoud\programming 2\assignment 4\biology\main.cpp
+	<iostream>
+	"CodonsTable.h"
+	"DNA.h"
+	"Sequence.h"
+	"RNA.h"
+	"Protein.h"
+
+1544818068 source:e:\mahmoud\programming 2\assignment 4\biology\src\dna.cpp
+	"DNA.h"
+	<cmath>
+	<iostream>
+
